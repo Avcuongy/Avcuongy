@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Hifumi%20muri%20muri.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Hifumi%20muri%20muri.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Avcuongy</h1>
