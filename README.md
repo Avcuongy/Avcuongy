@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/Avcuongy/Profile_Github_Custom/main/Hifumi%20muri%20muri.gif"  />
+  <img height="180" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Hifumi%20muri%20muri.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Avcuongy</h1>
@@ -46,7 +46,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://raw.githubusercontent.com/Avcuongy/Profile_Github_Custom/main/mika-misono-mika.gif"  />
+  <img height="450" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/mika-misono-mika.gif"  />
 </div>
 
 ###
