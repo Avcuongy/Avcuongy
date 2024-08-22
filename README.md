@@ -9,7 +9,7 @@
 </div>
 
 
-- 🔭 I’m currently learning on **Artificial Intelligence**
+- 🔭 I’m currently learning on **as a Computer Science student at the University of Economics Ho Chi Minh City (UEH).**
 
 - 📫 How to reach me **opcuong205.work@gmail.com**
 
