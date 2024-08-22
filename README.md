@@ -2,13 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+💕;+I'm+Avcuongy+!;" />
 </h1>
 
+<h3 align="center">I am a beginner !</h3>
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Hifumi%20muri%20muri.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Avcuongy</h1>
-<h3 align="center">I am a beginner !</h3>
 
 - 🔭 I’m currently learning on **Artificial Intelligence**
 
