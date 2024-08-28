@@ -8,8 +8,12 @@
   <img height="200" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Hifumi%20muri%20muri.gif"  />
 </div>
 
+<p>
+
+</div>
 <div align="center">
-🔭 I’m currently learning on **as a Computer Science student at the University of Economics Ho Chi Minh City (UEH).
+🔭 I’m currently learning on as a Computer Science student at the University of Economics Ho Chi Minh City (UEH).
+</div>
 
 ## 🌐How to reach me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100046751574359) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:opcuong205.work@gmail.com)
