@@ -5,7 +5,7 @@
 <h3 align="center">I am a beginner !</h3>
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Hifumi%20muri%20muri.gif"  />
+  <img height="220" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/Hifumi%20muri%20muri.gif"  />
 </div>
 
 <p>
@@ -65,7 +65,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/mika-misono-mika.gif"  />
+  <img height="450" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/mika-misono-mika.gif"  />
 </div>
 
 ###
