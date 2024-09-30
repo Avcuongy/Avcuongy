@@ -16,21 +16,22 @@
 </div>
 
 ## 🌐How to reach me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:opcuong205.work@gmail.com)
-
+<div align="left">
+  <a href="opcuong205.work@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/avcuongy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avcuongy" height="30" width="40" /></a>
-  
-<br clear="both">
-
 <div align="left">
-  <a href="https://www.instagram.com/avcuongy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100046751574359" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/avcuongy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@cuong_navy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
 
@@ -47,15 +48,14 @@
 </p>
 </div>
 
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avcuongy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />  
-  <img src="https://streak-stats.demolab.com?user=Avcuongy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&theme=react&area=true&order=5" height="260" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avcuongy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />  
+  <img src="https://streak-stats.demolab.com?user=Avcuongy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&theme=react&area=true&order=5" height="260" alt="activity-graph graph" />
 </div>
-
-###
 
 
 <br clear="both">
@@ -63,6 +63,3 @@
 <div align="center">
   <img height="450" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/mika-misono-mika.gif"  />
 </div>
-
-###
-
