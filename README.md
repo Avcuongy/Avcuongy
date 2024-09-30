@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avcuongy&show_icons=true&hide_title=true&count_private=true&theme=dracula&border_radius=5" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Avcuongy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&theme=react&area=true&order=5" height="283.5" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&theme=react&area=true&order=5" height="283" alt="activity-graph graph" />
 </div>
 
 
