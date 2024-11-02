@@ -61,7 +61,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/mika-misono-mika.gif"  />
+  <img height="366" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/mika-misono-mika.gif"  />
 </div>
 
 <h3 align="center">
