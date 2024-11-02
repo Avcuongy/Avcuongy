@@ -18,8 +18,7 @@
 </div>
 
 ---
-
-## 🌐 How to reach me
+### 🌐 How to reach me
 <div align="left">
   <a href="mailto:opcuong205.work@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
@@ -66,3 +65,14 @@
 <div align="center">
   <img height="450" src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/main/Pictures/mika-misono-mika.gif"  />
 </div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+!+👋;Drop+a+message+to+connect+!+💌&color=FF69B4"">
+</h3>
+
+<div align="center">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Built%20With%20Love-pink?style=for-the-badge&logoColor=white&logo=heart"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Makes%20People%20Smile-ff69b4?style=for-the-badge&logoColor=white&logo=smile"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
