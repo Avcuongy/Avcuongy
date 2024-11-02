@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/refs/heads/main/Pictures/Airi.gif" height="330"/>
 </div>
 
-<p>
+<p></p>
 
 </div>
 <div align="center">
@@ -53,9 +53,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avcuongy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&bg_color=1a1b27&title_color=ff69b4&text_color=ffffff&border_color=ff69b4&icon_color=ff69b4" height="165" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Avcuongy&locale=en&mode=daily&background=1a1b27&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff&stroke=ff69b4" height="165" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&bg_color=1a1b27&color=ff69b4&line=ff69b4&point=ff69b4&area_color=ff69b4&area=true&hide_border=false&border_color=ff69b4&border_radius=5" height="280" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avcuongy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&bg_color=1a1b27&title_color=ff69b4&text_color=ffb3d9&border_color=ff69b4&icon_color=ff69b4" height="165" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Avcuongy&locale=en&mode=daily&background=1a1b27&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffb3d9&sideNums=ffb3d9&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffb3d9&stroke=ff69b4" height="165" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&bg_color=1a1b27&color=ffb3d9&line=ff69b4&point=ff69b4&area_color=ff69b4&area=true&hide_border=false&border_color=ff69b4&border_radius=5" height="280" alt="activity-graph graph" />
 </div>
 
 <br clear="both">
