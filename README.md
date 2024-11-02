@@ -4,8 +4,6 @@
 
 ---
 
-<h3 align="center">I am a beginner !</h3>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/refs/heads/main/Pictures/Airi.gif" height="330"/>
 </div>
@@ -55,9 +53,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avcuongy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="168" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Avcuongy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="168" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&bg_color=1a1b27&color=ff69b4&line=ff69b4&point=ffffff&border_radius=5&area=true" height="285" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avcuongy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&bg_color=1a1b27&title_color=ff69b4&text_color=ffffff&border_color=ff69b4&icon_color=ff69b4" height="168" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Avcuongy&locale=en&mode=daily&background=1a1b27&border=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff&stroke=ff69b4" height="168" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&bg_color=1a1b27&color=ff69b4&line=ff69b4&point=ff69b4&area_color=ff69b4&area=true&hide_border=false&border_color=ff69b4&border_radius=5" height="285" alt="activity-graph graph" />
 </div>
 
 <br clear="both">
@@ -67,12 +65,12 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+!+👋;Drop+a+message+to+connect+!+💌&color=FF69B4"">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+!+💌&color=FF69B4"">
 </h3>
 
 <div align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Built%20With%20Love-pink?style=for-the-badge&logoColor=white&logo=heart"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/-Makes%20People%20Smile-ff69b4?style=for-the-badge&logoColor=white&logo=smile"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Built%20With%20Love-pink?style=for-the-badge&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Makes%20People%20Smile-ff69b4?style=for-the-badge&logoColor=white"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
