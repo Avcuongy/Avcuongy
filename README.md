@@ -57,9 +57,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avcuongy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&bg_color=1a1b27&title_color=ff91a4&text_color=ffb3d9&border_color=ff69b4&icon_color=ff69b4" height="165" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Avcuongy&locale=en&mode=daily&background=1a1b27&border=ff91a4&ring=ff69b4&fire=ffb3d9&currStreakNum=ffb3d9&sideNums=ffb3d9&currStreakLabel=ff91a4&sideLabels=ff91a4&dates=ffb3d9&stroke=ff69b4" height="165" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&bg_color=1a1b27&color=ffb3d9&line=ff91a4&point=ff69b4&area_color=ff91a4&area=true&hide_border=false&border_color=ff69b4&border_radius=5" height="280" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avcuongy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph" style="border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avcuongy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph" style="border-radius: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avcuongy&radius=16&bg_color=1a1b27&color=ffb3d9&line=ff91a4&point=ff69b4&area_color=ff91a4&area=true&hide_border=false&border_color=ff69b4&border_radius=5" height="280" alt="activity-graph graph" style="border-radius: 10px;" />
 </div>
 
 <br clear="both">
