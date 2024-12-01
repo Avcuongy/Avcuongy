@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=450&height=60&duration=4000&lines=Hi+There+!+💖;I'm+Avcuongy+!;&color=ff69b4" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=420&height=55&duration=4000&lines=Hi+There+!+💖;I'm+Avcuongy+!;&color=ff69b4" />
 </p>
 
 <div align="center">
@@ -39,7 +39,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=450&height=65&duration=4000&lines=Thanks+for+visiting+!+💌&color=FF69B4"">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=420&height=55&duration=4000&lines=Thanks+for+visiting+!+💌&color=FF69B4"">
 </h3>
 
 <div align="center">
