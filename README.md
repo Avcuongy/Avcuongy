@@ -18,10 +18,6 @@
 
 <p></p>
 
-<div align="center">
-🔭 I’m currently learning on as a Computer Science student at the University of Economics Ho Chi Minh City (UEH).
-</div>
-
 <br clear="both">
 
 <div align="center">
