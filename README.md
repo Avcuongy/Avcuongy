@@ -10,30 +10,32 @@
 
 ---
 
-## 🔧 Languages & Skills
+## 🔧 Languages
 
 <div align="left">
   
 ![C#](https://img.shields.io/badge/-C%23-ff69b4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ff91a4?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-ffb3d9?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 🧰 Libraries & Tools
+## 📚 Libraries & Frameworks
 
-### Data Processing & Visualization
 ![NumPy](https://img.shields.io/badge/-NumPy-ff69b4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-ff91a4?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffb3d9?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-ff69b4?style=for-the-badge&logo=python&logoColor=white)
 
-### Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-ff91a4?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Database
+---
+
+## 🛠️ Software & Tools
+
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-ffb3d9?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-ff69b4?style=for-the-badge&logo=git&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-ffb3d9?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
