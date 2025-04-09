@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/refs/heads/main/Pictures/Airi.gif" height="280"/>
+  <img src="https://raw.githubusercontent.com/Avcuongy/Avcuongy/refs/heads/main/Pictures/Airi.gif" height="230"/>
 </div>
 
 ---
