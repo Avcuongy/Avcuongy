@@ -36,7 +36,6 @@
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-ffb3d9?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-ff69b4?style=for-the-badge&logo=git&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-ffb3d9?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
