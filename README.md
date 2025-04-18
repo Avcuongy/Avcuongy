@@ -23,21 +23,23 @@
 
 ## 📚 Libraries & Frameworks
 
-![NumPy](https://img.shields.io/badge/-NumPy-ff69b4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-ff91a4?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffb3d9?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-f85a8c?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-f76b9f?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-fbaed2?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-f998cc?style=for-the-badge&logo=python&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-ff91a4?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-fb8da0?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-f76b9f?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
 ## 🛠️ Software & Tools
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-ffb3d9?style=for-the-badge&logo=jupyter&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-db7093?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-ff69b4?style=for-the-badge&logo=git&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-fb8da0?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-fc69b4?style=for-the-badge&logo=git&logoColor=white)
+
+![Ren'Py](https://img.shields.io/badge/-Ren'Py-f85a8c?style=for-the-badge&logo=renpy&logoColor=white)
 
 ---
 
